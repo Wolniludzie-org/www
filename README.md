@@ -22,5 +22,5 @@
 <p><strong>WPBakery Page Builder</strong><br />Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. <br />Wersja 5.4.5 | Autor: Michael M - WPBakery.com</p>
 
 <h2>SZABLON</h2>
-<p>Pressville - Unique WordPress Theme for Municipalities</p>
-https://themeforest.net/item/pressville-municipal-wordpress-theme/19949423?s_rank=1
+<p><strong>Pressville - Unique WordPress Theme for Municipalities</strong></p>
+https://themeforest.net/item/pressville-municipal-wordpress-theme/19949423
