@@ -1,6 +1,7 @@
 # www
 <h1>Składniki portalu wolniludzie.org</h1>
 <h2>LISTA WTYCZEK</h2>
+
 <strong>Admin Menu Editor</strong>
 Lets you directly edit the WordPress admin menu. You can re-order, hide or rename existing menus, add custom menus and more.
 Wersja 1.8.2 | Autor: Janis Elsts
