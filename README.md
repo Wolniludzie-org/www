@@ -23,6 +23,7 @@ Allows to create democratic polls. Visitors can vote for more than one answer &a
 Wersja 5.5.4 | Autor: Kama
 
 <strong>Loco Translate</strong>
+Translate themes and plugins directly in WordPress
 Wersja 2.1.0 | Autor: Tim Whitlock
 
 <strong>LSVR Directory</strong>
