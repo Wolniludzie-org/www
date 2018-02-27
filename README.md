@@ -1,4 +1,6 @@
 <h1>Składniki portalu wolniludzie.org</h1>
+<h2>SYSTEM ZARZĄDZANIA TREŚCIĄ - CMS</h2>
+<p><strong>Wordpress</strong> https://wordpress.org/</p>
 <h2>LISTA WTYCZEK</h2>
 <p><strong>Admin Menu Editor</strong> <br />Lets you directly edit the WordPress admin menu. You can re-order, hide or rename existing menus, add custom menus and more. <br />Wersja 1.8.2 | Autor: Janis Elsts</p>
 <p><strong>bbPress</strong> <br />bbPress jest zakręconym oprogramowaniem do forum od twórców WordPressa <br />Wersja 2.5.14 | Autor: Społeczność bbPress</p>
