@@ -1,0 +1,20 @@
+.glosowania .column-id {
+	width: 4em;
+}
+.glosowania .column-qid2 {
+	width: 4em;
+}
+.glosowania .column-added {
+	width: 7em;
+}
+.glosowania .column-usersvotes {
+	width: 5em;
+	text-align: center;
+}
+.glosowania td.column-usersvotes {
+	text-align: right;
+	padding-right: 2em;
+}
+.glosowania .column-date {
+	width: 10em;
+}
