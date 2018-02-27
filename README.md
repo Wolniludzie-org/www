@@ -24,3 +24,5 @@
 <h2>SZABLON</h2>
 <p><strong>Pressville - Unique WordPress Theme for Municipalities</strong></p>
 https://themeforest.net/item/pressville-municipal-wordpress-theme/19949423
+Licencja szablonu wyklucza jego ponowne użycie w innym projekcie: 
+https://themeforest.net/licenses/terms/regular
