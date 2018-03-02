@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LSVR Metaboxes\n"
+"POT-Creation-Date: 2017-11-28 14:43+0100\n"
+"PO-Revision-Date: 2018-03-01 07:52+0000\n"
+"Last-Translator: administrator <jstepa@bestgo.pl>\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"Report-Msgid-Bugs-To: "
+
+#: ../inc/classes/customizer-controls/lsvr-customize-control-sidebars.php:28
+#: ../inc/classes/customizer-controls/lsvr-customize-control-sidebars.php:51
+#, php-format
+msgid "Custom Sidebar %d"
+msgstr ""
+
+#: ../inc/classes/customizer-controls/lsvr-customize-control-sidebars.php:60
+msgid "No sidebars yet. Want to add one?"
+msgstr ""
+
+#: ../inc/classes/customizer-controls/lsvr-customize-control-sidebars.php:63
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../inc/classes/lsvr-post-metabox.php:36
+msgid "Settings"
+msgstr ""
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-attachment.php:18
+#: ../inc/classes/post-metafields/lsvr-post-metafield-external-attachment.php:15
+#: ../inc/classes/post-metafields/lsvr-post-metafield-gallery.php:16
+msgid "Remove"
+msgstr ""
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-attachment.php:23
+#: ../inc/classes/post-metafields/lsvr-post-metafield-gallery.php:21
+msgid "Select or Upload Files (hold CTRL or CMD key to select multiple files)"
+msgstr ""
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-attachment.php:60
+#: ../inc/classes/post-metafields/lsvr-post-metafield-external-attachment.php:51
+#: ../inc/classes/post-metafields/lsvr-post-metafield-gallery.php:59
+msgid "You can rearrange items via drag and drop"
+msgstr ""
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-attachment.php:69
+#: ../inc/classes/post-metafields/lsvr-post-metafield-gallery.php:68
+msgid "Select"
+msgstr ""
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-datetime.php:47
+msgid "Hour"
+msgstr "Godzina"
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-datetime.php:58
+msgid "Minute"
+msgstr "Minuta"
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-external-attachment.php:58
+msgid "Add URL"
+msgstr ""
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-opening-hours.php:136
+msgid "Closed"
+msgstr "Zamknięte"
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-switch.php:30
+msgid "Enable"
+msgstr "Włącz"
+
+#: ../inc/classes/post-metafields/lsvr-post-metafield-taxonomy-assign.php:48
+#: ../inc/classes/post-metafields/lsvr-post-metafield-taxonomy.php:48
+msgid "None"
+msgstr "Żaden"
+
+#: ../inc/classes/widget-fields/lsvr-widget-field-image.php:31
+msgid "No image selected"
+msgstr ""
+
+#: ../inc/classes/widget-fields/lsvr-widget-field-image.php:33
+msgid "Choose Image"
+msgstr ""
+
+#: ../inc/classes/widget-fields/lsvr-widget-field-image.php:34
+msgid "Remove Image"
+msgstr ""
+
+#: ../inc/classes/widget-fields/lsvr-widget-field-post.php:48
+msgid "There are no posts"
+msgstr ""
+
+#: ../inc/classes/widget-fields/lsvr-widget-field-taxonomy.php:46
+msgid "There are no items"
+msgstr ""
+
+#: ../inc/core-functions.php:106
+msgid "Icon"
+msgstr ""
+
+#: ../inc/core-functions.php:107
+msgid ""
+"Insert icon class name. Please refer to the documentation to learn more "
+"about icons."
+msgstr ""
+
+#: ../inc/core-functions.php:124
+msgid "---"
+msgstr ""

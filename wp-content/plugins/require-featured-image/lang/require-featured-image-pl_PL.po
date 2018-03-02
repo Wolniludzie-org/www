@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Require Featured Image\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 09:34+0000\n"
+"PO-Revision-Date: 2018-03-01 09:42+0000\n"
+"Last-Translator: administrator <jstepa@bestgo.pl>\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin-options.php:50
+msgid ""
+"<p>The minimum acceptable size can be set for featured images. This size "
+"means that posts with images smaller than the specified dimensions cannot be "
+"published. By default the sizes are zero, so any image size will be accepted."
+"</p>"
+msgstr ""
+
+#: admin-options.php:46
+msgid ""
+"<p>You can specify the post type for Require Featured Image to work on. By "
+"default it works on Posts only.</p><p>If you're not seeing a post type here "
+"that you think should be, it probably does not have support for featured "
+"images. Only post types that support featured images will appear on this "
+"list.</p>"
+msgstr ""
+
+#: require-featured-image.php:46
+#, php-format
+msgid ""
+"<strong>This entry has a featured image that is too small.</strong> Please "
+"use an image that is at least %s x %s pixels."
+msgstr ""
+"<strong>Ten wpis ma obrazek wyróżniający, który jest zbyt mały.</strong>Użyj "
+"obrazu o wymiarach co najmniej %s x %s pikseli."
+
+#: require-featured-image.php:44
+msgid ""
+"<strong>This entry has no featured image.</strong> Please set one. You need "
+"to set a featured image before publishing."
+msgstr ""
+"<strong> Ten wpis nie zawiera obrazka wyróżniającego.</ strong> Przed "
+"opublikowaniem musisz go ustawić."
+
+#. Author URI of the plugin
+msgid "http://pressupinc.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://pressupinc.com/wordpress-plugins/require-featured-image/"
+msgstr ""
+
+#: admin-options.php:40
+msgid "Image Size"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Like it says on the tin: requires posts to have a featured image set before "
+"they'll be published."
+msgstr ""
+
+#: admin-options.php:42
+msgid "Minimum size of the featured images"
+msgstr ""
+
+#: admin-options.php:33
+msgid "Post Types"
+msgstr ""
+
+#: admin-options.php:36
+msgid "Post Types that require featured images "
+msgstr ""
+
+#. Author of the plugin
+msgid "Press Up"
+msgstr ""
+
+#. Name of the plugin
+#: admin-options.php:10
+msgid "Require Featured Image"
+msgstr ""
+
+#: admin-options.php:14
+msgid "Save Changes"
+msgstr ""
+
+#: require-featured-image.php:144
+#, php-format
+msgid ""
+"You cannot publish without a featured image that is at least %s x %s pixels."
+msgstr ""
+"Nie można publikować bez obrazka wyróżniającego, który ma co wielkość "
+"najmniej %s x %s pikseli."
+
+#: require-featured-image.php:141
+msgid "You cannot publish without a featured image."
+msgstr "Nie możesz publikować bez obrazka wyróżniającego."

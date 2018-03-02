@@ -1,0 +1,721 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LSVR Toolkit\n"
+"POT-Creation-Date: 2017-12-12 11:24+0100\n"
+"PO-Revision-Date: 2018-01-03 08:23+0000\n"
+"Last-Translator: administrator <jstepa@bestgo.pl>\n"
+"Language-Team: Polish\n"
+"Language: pl-PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"Report-Msgid-Bugs-To: "
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:24
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:75
+msgid "More Places"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:144
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:149
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:150
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:94
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:128
+#, php-format
+msgid "in %s"
+msgstr "| %s"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:165
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:157
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:155
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:156
+msgid "More"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:181
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:171
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:172
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:127
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:148
+msgid "There are no posts"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:210
+#: ../inc/tailor-config.php:26
+msgid "Pressville Directory"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:211
+msgid "List of Listings"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:212
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:204
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:202
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:203
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:67
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:54
+msgid "Pressville"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:218
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:210
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:208
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:209
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:27
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:27
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:27
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:27
+msgid "Title"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:219
+msgid "Title of this section."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:225
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:216
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:214
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:215
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:40
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:40
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:40
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:40
+msgid "Subtitle"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:231
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:222
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:220
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:221
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:53
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:53
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:53
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:53
+msgid "Icon Class"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:232
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:223
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:221
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:222
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:54
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:54
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:54
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:54
+msgid ""
+"Class of the icon which will be displayed in element title. Check out the "
+"documentation to learn more about icons. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:239
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:230
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:228
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:229
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:67
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:67
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:67
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:67
+msgid "Category"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:240
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:68
+msgid "Display listings from specific category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:246
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:237
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:235
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:236
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:82
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:82
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:82
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:82
+msgid "More Button Label"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:247
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:83
+msgid "Link to directory archive. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:253
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:244
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:242
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:243
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:103
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:103
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:103
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:103
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:48
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:49
+msgid "Layout"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:254
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:245
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:243
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:244
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:117
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:117
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:117
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:117
+msgid ""
+"Choose the layout of this element. Please note that the \"Title in the "
+"Background\" layout doesn't display the subtitle and icon on desktops and "
+"all layouts are displayed as \"Title on the Top\" on small devices."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:256
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:247
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:245
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:246
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:119
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:119
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:119
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:119
+msgid "Title on the Top"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:257
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:248
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:246
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:247
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:120
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:120
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:120
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:120
+msgid "Title on the Left"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:258
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:249
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:247
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:248
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:121
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:121
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:121
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:121
+msgid "Title in the Background"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:265
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:135
+msgid "Number of Listings"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:266
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:136
+msgid "How many listings should be displayed. Set to 0 to display all."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:274
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:265
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:263
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:264
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:87
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:69
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:154
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:154
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:154
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:154
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:74
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:62
+msgid "Number of Columns"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:275
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:155
+msgid "How many columns should be used to display listings."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:283
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:173
+msgid "Show Category"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:284
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:174
+msgid "Show badge with listing category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:290
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:274
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:272
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:273
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:78
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:187
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:173
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:173
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:173
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:81
+msgid "Darken Background"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:291
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:275
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:273
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:274
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:79
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:188
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:174
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:174
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:174
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:82
+msgid "Darken the background color of this element."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:297
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:281
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:279
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:280
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:201
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:187
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:187
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:187
+msgid "Enable Slider"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:298
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:282
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:202
+msgid "Display listings as a slider."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:304
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:288
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:286
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:287
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:96
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:85
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:95
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:95
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:95
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:95
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:40
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:41
+msgid "Unique ID"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-directory.php:305
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:289
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:287
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:288
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:97
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:86
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:96
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:96
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:96
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:96
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:41
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:42
+msgid ""
+"You can use this ID to style this specific element with custom CSS, for "
+"example."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:23
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:25
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:75
+msgid "More News"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:150
+#, php-format
+msgid "%s - %s"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:151
+#, php-format
+msgid "at %s"
+msgstr "| %s"
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:185
+msgid "There are no events"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:202
+#: ../inc/tailor-config.php:38
+msgid "Pressville Events"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:203
+msgid "List of Events"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:231
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:68
+msgid "Display events from a specific category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:238
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:83
+msgid "Link to events archive. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:256
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:135
+msgid "Number of Events"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:257
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:136
+msgid "How many events should be displayed. Set to 0 to display all."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-events.php:266
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:155
+msgid "How many columns should be used to display events."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:23
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:75
+msgid "More Galleries"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:151
+#, php-format
+msgid "%d image"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:200
+#: ../inc/tailor-config.php:50
+msgid "Pressville Galleries"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:201
+msgid "List of Galleries"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:229
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:68
+msgid "Display galleries from a specific category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:236
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:83
+msgid "Link to gallery archive. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:254
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:135
+msgid "Number of Galleries"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:255
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:136
+msgid "How many galleries should be displayed. Set to 0 to display all."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:264
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:155
+msgid "How many columns should be used to display galleries."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-galleries.php:280
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:188
+msgid "Display galleries as a slider."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:201
+#: ../inc/tailor-config.php:62
+msgid "Pressville Posts"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:202
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:17
+msgid "List of Posts"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:230
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:68
+msgid "Display posts from a specific category."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:237
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:83
+msgid "Link to post archive. Leave blank to hide."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:255
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:135
+msgid "Number of Posts"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:256
+msgid "How many posts should be displayed. Set to 0 to display all."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:265
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:155
+msgid "How many columns should be used to display posts."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-posts.php:281
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:188
+msgid "Display posts as a slider."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:65
+#: ../inc/tailor-config.php:74
+msgid "Pressville Sitemap"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:66
+msgid "Custom menu"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:73
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:26
+msgid "Menu"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:74
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:27
+msgid ""
+"Choose which menu will be used to create the sitemap. You can manage menus "
+"under Appearance / Menus."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:80
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:60
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:81
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:61
+msgid "Optimal resolution is about 2000x1600px or more."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-sitemap.php:88
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:75
+msgid "How many columns should be used to display the sitemap."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:52
+#: ../inc/tailor-config.php:86
+msgid "Pressville Widgets"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:53
+msgid "Sidebar widgets"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:60
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:27
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:61
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:28
+msgid ""
+"Choose which sidebar will be used to create this section. You can manage "
+"custom sidebars under Customizer / Custom Sidebars and populate them with "
+"widgets under Appearance / Widgets."
+msgstr ""
+
+#: ../inc/classes/shortcodes/lsvr-shortcode-pressville-widgets.php:70
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:63
+msgid "How many columns should be used to display the widgets."
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:14
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:14
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:14
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:14
+#: ../inc/classes/tailor-elements/lsvr-pressville-sitemap-element.php:14
+#: ../inc/classes/tailor-elements/lsvr-pressville-widgets-element.php:14
+msgid "General"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:20
+msgid "Interesting Places"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:33
+msgid "Check out some of these cool spots"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:69
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:69
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:69
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:69
+msgid "No Category"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-directory-element.php:116
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:116
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:116
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:116
+msgid "Element Layout"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:20
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:33
+msgid "There is always something going on in our community"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:75
+msgid "More Events"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-events-element.php:188
+msgid "Display events as a slider."
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:20
+msgid "Town Galleries"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-galleries-element.php:33
+msgid "Interesting sights and past events"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:20
+msgid "Latest News"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:33
+msgid "Read about what's been going on in our town"
+msgstr ""
+
+#: ../inc/classes/tailor-elements/lsvr-pressville-posts-element.php:136
+msgid "How many post should be displayed. Set to 0 to display all."
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:16
+msgid "LSVR Pressville Featured Post"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:17
+msgid "Single Post"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:20
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:20
+msgid "Title:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:22
+msgid "Featured Post"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:25
+msgid "Post:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:26
+msgid "Choose post to display"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:31
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:39
+msgid "Display Date"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:36
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:44
+msgid "Display Category"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:41
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:46
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:49
+msgid "More Button Label:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:47
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:50
+msgid "Link to post archive. Leave blank to hide"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-featured.php:49
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:52
+msgid "More Posts"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:16
+msgid "LSVR Pressville Posts"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:22
+msgid "News"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:25
+msgid "Category:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:26
+msgid "Display posts only from certain category"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:29
+msgid "None"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:32
+msgid "Limit:"
+msgstr ""
+
+#: ../inc/classes/widgets/lsvr-widget-pressville-post-list.php:33
+msgid "Number of posts to display. Set to \"0\" to display all"
+msgstr ""
+
+#: ../inc/core-functions.php:78
+#, php-format
+msgid "Custom Sidebar %d"
+msgstr ""
+
+#: ../inc/core-functions.php:96
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../inc/frontend-functions.php:66
+msgid "All-day event"
+msgstr ""
+
+#: ../inc/tailor-config.php:27
+msgid "Fullwidth section displaying directory listings"
+msgstr ""
+
+#: ../inc/tailor-config.php:28 ../inc/tailor-config.php:40
+#: ../inc/tailor-config.php:52 ../inc/tailor-config.php:64
+#: ../inc/tailor-config.php:76 ../inc/tailor-config.php:88
+msgid "LSVR"
+msgstr ""
+
+#: ../inc/tailor-config.php:39
+msgid "Fullwidth section displaying events"
+msgstr ""
+
+#: ../inc/tailor-config.php:51
+msgid "Fullwidth section displaying galleries"
+msgstr ""
+
+#: ../inc/tailor-config.php:63
+msgid "Fullwidth section displaying standard posts"
+msgstr ""
+
+#: ../inc/tailor-config.php:75
+msgid "Fullwidth section displaying custom menu"
+msgstr ""
+
+#: ../inc/tailor-config.php:87
+msgid "Fullwidth section displaying sidebar widgets"
+msgstr ""

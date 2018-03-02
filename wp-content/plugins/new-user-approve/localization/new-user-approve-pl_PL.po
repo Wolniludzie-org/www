@@ -1,0 +1,344 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Josh Harrison
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/new-user-approve\n"
+"POT-Creation-Date: 2018-02-28 18:22+0000\n"
+"PO-Revision-Date: 2018-02-28 18:25+0000\n"
+"Last-Translator: administrator <jstepa@bestgo.pl>\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);"
+
+#: new-user-approve.php:98
+#, php-format
+msgid "New User Approve requires WordPress %s or newer."
+msgstr "Wtyczka New User Approve wymaga WordPressa %s lub nowszego."
+
+#: new-user-approve.php:150
+#, php-format
+msgid ""
+"The Membership setting must be turned on in order for the New User Approve "
+"to work correctly. <a href=\"%1$s\">Update in settings</a>. | <a "
+"href=\"%2$s\">Hide Notice</a>"
+msgstr ""
+"Ustawienie \"każdy może się zarejestrować\" musi zostać włączone aby wtyczka "
+"New User Approve działała poprawnie. <a href=\"%1$s\">zaktualizuj</a>. | <a "
+"href=\"%2$s\">Ukryj powiadomienie</a>"
+
+#: new-user-approve.php:262
+msgid "<strong>ERROR</strong>: Your account is still pending approval."
+msgstr ""
+"<strong>BŁĄD</strong>: Twoje konto wciąż oczekuje na przyjęcie do logowania "
+"się na tej witrynie."
+
+#: new-user-approve.php:265
+msgid ""
+"<strong>ERROR</strong>: Your account has been denied access to this site."
+msgstr ""
+"<strong>BŁĄD</strong>: Twoje konto nie uzyskało akceptacji do logowania się "
+"na tej witrynie."
+
+#: new-user-approve.php:409
+msgid "Users"
+msgstr "Użytkownicy"
+
+#: new-user-approve.php:440
+#, php-format
+msgid "[%s] User Approval"
+msgstr "[%s] Akceptacja użytkowników"
+
+#: new-user-approve.php:568
+#, php-format
+msgid "[%s] Registration Approved"
+msgstr "[%s] Zaakceptowana rejestracja"
+
+#: new-user-approve.php:598
+#, php-format
+msgid "[%s] Registration Denied"
+msgstr "[%s] Odrzucona rejestracja"
+
+#: new-user-approve.php:661
+msgid "Registration successful."
+msgstr "Rejestracja przyjęta."
+
+#: new-user-approve.php:664
+msgid "Pending Approval"
+msgstr "Oczekiwanie na akceptację"
+
+#: includes/messages.php:9
+msgid "You have been approved to access {sitename}"
+msgstr "Zostałeś przyjęty na {sitename}"
+
+#: includes/messages.php:12
+msgid "To set or reset your password, visit the following address:"
+msgstr "Aby ustawić lub zresetować hasło, odwiedź następujący adres:"
+
+#: includes/messages.php:26
+msgid "You have been denied access to {sitename}."
+msgstr ""
+"Twoja rejestracja na {sitename} została odrzucona. Przepraszamy: być może "
+"podałeś błędne lub niepełne informacje w trakcie rejestracji."
+
+#: includes/messages.php:39
+msgid ""
+"An email has been sent to the site administrator. The administrator will "
+"review the information that has been submitted and either approve or deny "
+"your request."
+msgstr ""
+"Wysłano email do administratora, który zapozna się z wprowadzonymi "
+"informacjami i przyjmie lub odrzuci twoją rejestrację.<br>"
+
+#: includes/messages.php:41
+msgid ""
+"You will receive an email with instructions on what you will need to do next."
+" Thanks for your patience."
+msgstr ""
+"Oczekuj emaila z instrukcjami, co robić dalej. Dziękujemy za cierpliwość."
+
+#: includes/messages.php:54
+msgid ""
+"Welcome to {sitename}. This site is accessible to approved users only. To be "
+"approved, you must first register."
+msgstr ""
+"Witaj na {sitename}. Część tej witryny dostępna jest tylko dla "
+"zaakceptowanych użytkowników. Aby zostać zaakceptowanym, musisz najpierw się "
+"zarejestrować."
+
+#: includes/messages.php:67
+msgid "{username} ({user_email}) has requested a username at {sitename}"
+msgstr "{username} ({user_email}) zażądał konta na {sitename}"
+
+#: includes/messages.php:69
+msgid "To approve or deny this user access to {sitename} go to"
+msgstr "Aby zaakceptować lub odrzucić dostęp do {sitename}, przejdź do"
+
+#: includes/messages.php:84
+msgid ""
+"After you register, your request will be sent to the site administrator for "
+"approval. You will then receive an email with further instructions."
+msgstr ""
+"Po zarejestrowaniu twoje dane zostaną przesłane do administratora w celu "
+"weryfikacji. Po weryfikacji otrzymasz email z dalszymi instrukcjami."
+
+#: includes/email-tags.php:235
+msgid "The user's username on the site as well as the Username label"
+msgstr "Nazwa użytkownika na witrynie oraz jego widoczna etykietka"
+
+#: includes/email-tags.php:241
+msgid "The user's email address"
+msgstr "Adres email użytkownika"
+
+#: includes/email-tags.php:247
+msgid "Your site name"
+msgstr "Nazwa twojej strony"
+
+#: includes/email-tags.php:253
+msgid "Your site URL"
+msgstr "Twój adres URL"
+
+#: includes/email-tags.php:259
+msgid "The URL to approve/deny users"
+msgstr "Adres URL do przyjmowania/odrzucania użytkowników"
+
+#: includes/email-tags.php:265
+msgid "The URL to login to the site"
+msgstr "Adres URL do logowania się do witryny"
+
+#: includes/email-tags.php:271
+msgid "The URL for a user to set/reset their password"
+msgstr "Adres URL użytkownika do ustawienia/zresetowania hasła"
+
+#: includes/email-tags.php:277
+msgid "Generates the password for the user to add to the email"
+msgstr "Generuje hasło dla użytkownika w celu dodania do emaila"
+
+#: includes/email-tags.php:305
+#, php-format
+msgid "Username: %s"
+msgstr "Konto: %s"
+
+#: includes/email-tags.php:396
+#, php-format
+msgid "Password: %s"
+msgstr "Hasło: %s"
+
+#: includes/user-list.php:98 includes/user-list.php:240
+#: includes/user-list.php:241 includes/admin-approve.php:133
+#: includes/admin-approve.php:133
+msgid "Approve"
+msgstr "Zatwierdź"
+
+#: includes/user-list.php:99 includes/user-list.php:243
+#: includes/user-list.php:244 includes/admin-approve.php:138
+#: includes/admin-approve.php:138
+msgid "Deny"
+msgstr "Odrzuć"
+
+#: includes/user-list.php:121
+msgid "Status"
+msgstr "Status"
+
+#: includes/user-list.php:144 includes/admin-approve.php:154
+msgid "approved"
+msgstr "przyjęty"
+
+#: includes/user-list.php:146 includes/admin-approve.php:156
+msgid "denied"
+msgstr "odrzucony"
+
+#: includes/user-list.php:148 includes/admin-approve.php:158
+msgid "pending"
+msgstr "oczekujący"
+
+#: includes/user-list.php:167
+msgid "Filter"
+msgstr "Filtruj"
+
+#: includes/user-list.php:171 includes/user-list.php:173
+msgid "View all users"
+msgstr "Zobacz wszystkich użytkowników"
+
+#: includes/user-list.php:337
+#, php-format
+msgid "User denied."
+msgid_plural "%s users denied."
+msgstr[0] "Użytkownik odrzucony."
+msgstr[1] "%s użytkownicy odrzuceni."
+msgstr[2] "%s użytkowników odrzuconych."
+
+#: includes/user-list.php:342
+#, php-format
+msgid "User approved."
+msgid_plural "%s users approved."
+msgstr[0] "Użytkownik został zaakceptowany."
+msgstr[1] "% użytkownicy zaakceptowani."
+msgstr[2] "% użytkowników zaakceptowanych."
+
+#: includes/user-list.php:366
+msgid "Access Status"
+msgstr "Status dostępu"
+
+#: includes/user-list.php:371
+msgid "-- Status --"
+msgstr ""
+
+#: includes/user-list.php:379
+msgid "If user has access to sign in or not."
+msgstr "Czy użytkownik może się zalogować, czy nie"
+
+#: includes/user-list.php:382
+msgid "Current user status is <strong>pending</strong>."
+msgstr "Aktualny status: <strong>oczekuje na akceptację</strong>."
+
+#: includes/admin-approve.php:50
+msgid "Approve New Users"
+msgstr "Zatwierdzanie użytkowników"
+
+#: includes/admin-approve.php:82
+msgid "Username"
+msgstr "Konto"
+
+#: includes/admin-approve.php:83
+msgid "Name"
+msgstr "Nazwa"
+
+#: includes/admin-approve.php:84
+msgid "E-mail"
+msgstr "E-mail"
+
+#: includes/admin-approve.php:86 includes/admin-approve.php:88
+msgid "Actions"
+msgstr "Czynność"
+
+#: includes/admin-approve.php:129
+msgid "email:"
+msgstr "email:"
+
+#: includes/admin-approve.php:161
+#, php-format
+msgid "There are no users with a status of %s"
+msgstr "Nie ma żadnych użytkowników ze statusem %s"
+
+#: includes/admin-approve.php:197
+#, php-format
+msgid ""
+"You can now update user status on the <a href=\"%1$s\">users admin page</a>. "
+"| <a href=\"%2$s\">Hide Notice</a>"
+msgstr ""
+"Możesz teraz aktualizować status użytkowników na <a href=\"%1$s\">stronie "
+"użytkowników</a>. | <a href=\"%2$s\">Ukryj to powiadomienie</a>"
+
+#: includes/admin-approve.php:220
+msgid "Approve Users"
+msgstr "Zatwierdź użytkowników"
+
+#: includes/admin-approve.php:221
+msgid "Updates"
+msgstr "Aktualizacje"
+
+#: includes/admin-approve.php:222
+msgid "Support"
+msgstr "Wsparcie"
+
+#: includes/admin-approve.php:223
+msgid "Feedback"
+msgstr "Informacja zwrotna"
+
+#: includes/admin-approve.php:231
+msgid "Users Pending Approval"
+msgstr "Użytkownicy oczekujący na akceptację"
+
+#: includes/admin-approve.php:233
+msgid "Approved Users"
+msgstr "Użytkownicy przyjęci"
+
+#: includes/admin-approve.php:235
+msgid "Denied Users"
+msgstr "Użytkownicy odrzuceni"
+
+#: admin/templates/approve.php:6
+msgid "User successfully updated."
+msgstr "Konto zostało  zaktualizowane"
+
+#: admin/templates/approve.php:11
+msgid "User Registration Approval"
+msgstr "Przyjmowanie rejestracji"
+
+#. Name of the plugin
+msgid "New User Approve"
+msgstr "Zatwierdzanie nowego użytkownika"
+
+#. Description of the plugin
+msgid ""
+"Allow administrators to approve users once they register. Only approved "
+"users will be allowed to access the site. For support, please go to the <a "
+"href=\"http://wordpress.org/support/plugin/new-user-approve\">support "
+"forums</a> on wordpress.org."
+msgstr ""
+"Zezwól administratorom na zatwierdzanie użytkowników po ich zarejestrowaniu. "
+"Tylko zatwierdzeni użytkownicy będą mieli dostęp do witryny. Aby uzyskać "
+"pomoc, odwiedź <a href=\"http://wordpress.org/support/plugin/new-user-"
+"approve\"> fora pomocy </a> na stronie wordpress.org."
+
+#. URI of the plugin
+msgid "http://www.picklewagon.com/wordpress/new-user-approve/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Josh Harrison"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://picklewagon.com/"
+msgstr ""
