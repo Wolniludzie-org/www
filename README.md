@@ -21,6 +21,11 @@
 <p><strong>User Role Editor</strong> <br />Change/add/delete WordPress user roles and capabilities. <br />Wersja 4.40 | Autor: Vladimir Garagulya</p>
 <p><strong>WPBakery Page Builder</strong><br />Drag and drop page builder for WordPress. Take full control over your WordPress site, build any layout you can imagine – no programming knowledge required. <br />Wersja 5.4.5 | Autor: Michael M - WPBakery.com</p>
 
+<p><strong>Require Featured Image</strong><br />
+Like it says on the tin: requires posts to have a featured image set before they'll be published.
+<br />Wersja 1.3.0 | Autor: Press Up</p>
+
+
 <h2>SZABLON</h2>
 <p><strong>Pressville - Unique WordPress Theme for Municipalities</strong></p>
 https://themeforest.net/item/pressville-municipal-wordpress-theme/19949423
